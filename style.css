@@ -5,23 +5,18 @@
   border: border-box;
 }
 .navbar{
-  height: 60px;
+  height: 4rem;
   background-color: #0f151b;
   color: white;
   display: flex;
   align-items: center;
-  justify-content: space-evenly;
+  justify-content: space-around;
 
 
-}
-
-.nav-logo{
-  height: 80px;
-  width: 110px;
 }
 
 .logo{
-  height: 80px;
+  height: 4rem;
   width: 110px;
   background-image: url(amazon_logo.png);
   background-size: contain;
